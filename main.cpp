@@ -253,6 +253,5 @@ int main()
     }
     Sleep(100);
     }
-    cout << "\n\n\n\n\t\t\t------Made By Dong Ngo-------    "<< "\n\n\t\t\tCopyright by Dong Ngo   \n\n\n "<<endl;
     system("pause") ;
 }
